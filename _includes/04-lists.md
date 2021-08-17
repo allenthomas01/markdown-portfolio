@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- What I Love doing 
+  * Learning 
+  * Building
+  * Exploring
+
+ 
